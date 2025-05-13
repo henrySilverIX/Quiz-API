@@ -16,7 +16,7 @@ gráfica feita com Tkinter.
 
 # 🧠 Fonte das Perguntas
 As perguntas são obtidas em tempo real da API:
-https://opentdb.com/api.php
+https://opentdb.com/api.php.<br>
 Parâmetros utilizados:
 
 
