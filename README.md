@@ -5,13 +5,13 @@ API</a> para buscar perguntas em tempo real. O usuário responde True ou False p
 gráfica feita com Tkinter.
 
 # 🚀 Tecnologias Utilizadas
-🐍 Python 3
 
-🖼️ Tkinter – Biblioteca nativa do Python para interface gráfica
-
-🌐 Requests – Para fazer chamadas HTTP à API
-
-🔠 HTML Unescape – Para decodificar caracteres HTML nas perguntas
+<ul>
+<li>🐍 Python 3</li>
+<li>🖼️ Tkinter – Biblioteca nativa do Python para interface gráfica</li>
+<li>🌐 Requests – Para fazer chamadas HTTP à API</li>
+<li>🔠 HTML Unescape – Para decodificar caracteres HTML nas perguntas</li>
+</ul>
 
 
 # 🧠 Fonte das Perguntas
@@ -19,17 +19,17 @@ As perguntas são obtidas em tempo real da API:
 https://opentdb.com/api.php
 Parâmetros utilizados:
 
-amount=10 (quantidade de perguntas)
 
-type=boolean (respostas do tipo verdadeiro ou falso)
+`amount=10` (quantidade de perguntas)
+
+`type=boolean` (respostas do tipo verdadeiro ou falso)
 
 # 💡 Funcionalidades
-✅ Perguntas em tempo real da internet
 
-✅ Interface gráfica intuitiva
-
-✅ Feedback visual para respostas corretas/incorretas
-
-✅ Contador de pontuação em tempo real
-
-✅ Fim de jogo com resultado final
+<ul>
+<li>✅ Perguntas em tempo real da internet</li>
+<li>✅ Interface gráfica intuitiva</li>
+<li>✅ Feedback visual para respostas corretas/incorretas</li>
+<li>✅ Contador de pontuação em tempo real</li>
+<li>✅ Fim de jogo com resultado final</li>
+</ul>
